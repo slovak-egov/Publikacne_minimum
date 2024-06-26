@@ -3,7 +3,9 @@
 Publikačné minimum samosprávy patrí medzi strategické priority informatizácie verejnej správy v oblasti sprístupňovania otvorených údajov. Cieľom je, aby organizácie územnej samosprávy podľa ich povinností, sprístupnili definovanú množinu údajov, tj. datasetov, vo formáte otvorených údajov, tj. v definovanej forme a definovaným spôsobom. 
 
 Návrh Publikačného minima pre samosprávy je vo fáze konzultovania so zainteresovanými aktérmi a má odporúčací charakter. 
+
 Názov datasetu / Legislatívne východiská	/Kategória dát (EDP)	/  Kto zverejňuje
+
 Organizačná štruktúra/	infozákon (§5)       Zákon o obecnom zriadení, Zákon o eGovernmente  (§6, ods. 3a); Zákon o IT vo VS  (vyhláška 78/2020, § 15)	/Regióny a mestá	okresné a krajské mestá, VÚC, magistrát
 Kontaktné miesta	/ /Regióny a mestá,	okresné a krajské mestá, VÚC, magistrát
 Úradné hodiny	/  /	Regióny a mestá	okresné a krajské mestá, VÚC, magistrát
