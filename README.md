@@ -6,7 +6,7 @@ Návrh Publikačného minima pre samosprávy je vo fáze konzultovania so zainte
 
 Názov datasetu / Legislatívne východiská	/Kategória dát (EDP)	/  Kto zverejňuje
 
-Organizačná štruktúra/	infozákon (§5) Zákon o obecnom zriadení, Zákon o eGovernmente  (§6, ods. 3a); Zákon o IT vo VS  (vyhláška 78/2020, § 15)	/Regióny a mestá	okresné a krajské mestá, VÚC, magistrát
+Organizačná štruktúra/	infozákon (§5) Zákon o obecnom zriadení, Zákon o eGovernmente  (§6, ods. 3a); Zákon o IT vo VS  (vyhláška 78/2020, § 15)	/Regióny a mestá	okresné a krajské mestá, VÚC, magistrát/IČO samosprávy, Názov samosprávy,ID organizačnej jednotky,Názov organizačnej jednotky, ID  nadradenej organizačnej jednotky,Názov organizačnej jednotky,Kontaktná osoba,Emailová adresa,Telefónne čísla,Vykonávaná Agenda
 
 Kontaktné miesta	/ /Regióny a mestá,	okresné a krajské mestá, VÚC, magistrát
 
